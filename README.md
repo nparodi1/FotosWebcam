@@ -1,6 +1,6 @@
 # Automove Script
 Automove (and sort) files after being dropped in a folder
-
+d
 Will read all files in User/Documents and then move it to a certain folder depending on file type.
 
 In case of Images will move it to a subfolder depending on Year_Month
